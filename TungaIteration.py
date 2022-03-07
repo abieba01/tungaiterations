@@ -2,6 +2,7 @@ def ArrayChallenge(arr):
   i=0
   j=0
   k=0
+  
 
   l = len(arr)
   result = sum(arr)
